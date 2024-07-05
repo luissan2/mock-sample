@@ -1,0 +1,435 @@
+{
+    "items": [
+        {
+            "productId": 230,
+            "productName": "MacBook Pro Chip M2 13.3''",
+            "description": "La nueva MacBook Pro de 13 pulgadas llega con un chip M2 con hasta 24 GB de memoria unificada más rápida.",
+            "descriptions": [
+                {
+                    "name": "Descripción",
+                    "value": [
+                        "La nueva MacBook Pro de 13 pulgadas llega con un chip M2 con hasta 24 GB de memoria unificada más rápida."
+                    ]
+                },
+                {
+                    "name": "Descripción Larga",
+                    "value": [
+                        "La nueva MacBook Pro de 13 pulgadas llega con un chip M2 con hasta 24 GB de memoria unificada más rápida y aceleración ProRes, un sistema de enfriamiento activo, una pantalla Retina, cámara FaceTime HD, micrófonos con calidad de estudio y hasta 20 horas de duración de la batería."
+                    ]
+                },
+                {
+                    "name": "Software",
+                    "value": [
+                        "W11"
+                    ]
+                }
+            ],
+            "brandId": 1,
+            "brandImage": "https://d2bb2hf1hp3ih3.cloudfront.net/images/applelogo-wfFkM93V6-regular.png",
+            "brandName": "Generic Brand",
+            "categoryId": 1,
+            "categoryName": "Laptops",
+            "dataSheet": "",
+            "dataSheetName": "",
+            "imageId": 238,
+            "imageUrl": "https://d2bb2hf1hp3ih3.cloudfront.net/images/1-agvR366eo-regular.png",
+            "isKit": false,
+            "itemId": 179,
+            "longDescription": "La nueva MacBook Pro de 13 pulgadas llega con un chip M2 con hasta 24 GB de memoria unificada más rápida y aceleración ProRes, un sistema de enfriamiento activo, una pantalla Retina, cámara FaceTime HD, micrófonos con calidad de estudio y hasta 20 horas de duración de la batería.",
+            "pills": {
+                "Perfil": "Tecnología",
+                "Software": "W11",
+                "Almacenamiento": "1 TB SSD",
+                "Memoria": "16 GB"
+            },
+            "position": "Altos",
+            "positionNameStringId": "cat_ProductPosition_name_altos_5f3bbfa9-b357-47db-9306-3523c3cc9459",
+            "profiles": [
+                "Tecnología"
+            ],
+            "secondaryImages": [
+                "https://d2bb2hf1hp3ih3.cloudfront.net/images/2-8as5ppBsm-regular.png",
+                "https://d2bb2hf1hp3ih3.cloudfront.net/images/3-EdinHnIZr-regular.png",
+                "https://d2bb2hf1hp3ih3.cloudfront.net/images/4-KauZ2Tv3g-regular.png"
+            ],
+            "sku": "12J31K",
+            "specs": {
+                "specs_warranty_84c5846d-a020-41f5-a937-b0d7336b67c5": "3 años",
+                "specs_hardDrive_c7d8c257-db8e-4369-94fb-1f2eabb45e5c": "1 TB SSD",
+                "specs_processor_aec86c10-8ec1-441b-a588-f3fe99fe72a4": "M 2",
+                "specs_displayInches_63c5b0c7-9b39-4e00-9c64-c62701919f98": "13.3''",
+                "specs_inBoxAccessories_f5e5d8f0-8f6d-4eef-9619-54fc2363bbd0": "Cargador",
+                "specs_software_f95734e4-66ad-4e82-8e26-e0586644ed4b": "W11"
+            },
+            "prices": {
+                "priciePrimeusd": "2784.75",
+                "priceWithoutPrimeUsd": 2870,
+                "localPrice": "47340.80",
+                "havePrime": true
+            },
+            "warranty": "3 años",
+            "bestSellerOrder": 1
+        },
+        {
+            "productId": 293,
+            "productName": "Test Lap ",
+            "description": "Esta es una prueba del nuevo ecommerce",
+            "descriptions": [
+                {
+                    "name": "Descripción",
+                    "value": [
+                        "Esta es una prueba del nuevo ecommerce"
+                    ]
+                },
+                {
+                    "name": "Descripción Larga",
+                    "value": [
+                        null
+                    ]
+                },
+                {
+                    "name": "Software",
+                    "value": [
+                        "W11"
+                    ]
+                }
+            ],
+            "brandId": 5,
+            "brandImage": "https://d2bb2hf1hp3ih3.cloudfront.net/images/hpnewlogo2d-6f26-rGweLXO4x-regular.png",
+            "brandName": "XTECH",
+            "categoryId": 1,
+            "categoryName": "Laptops",
+            "dataSheet": "",
+            "dataSheetName": "",
+            "imageId": 412,
+            "imageUrl": "https://d2bb2hf1hp3ih3.cloudfront.net/images/12468776538479604519529603901635437441951016n-059b-o3y43vlVv-regular.png",
+            "isKit": false,
+            "itemId": 211,
+            "longDescription": null,
+            "pills": {
+                "Cargo": "Altos",
+                "Perfil 1": "Financiero/Adm",
+                "Perfil 2": "Diseño",
+                "Procesador": "Core i3",
+                "Memoria": "8 GB"
+            },
+            "position": "Altos",
+            "positionNameStringId": "cat_ProductPosition_name_altos_5f3bbfa9-b357-47db-9306-3523c3cc9459",
+            "profiles": [
+                "Financiero/Adm",
+                "Diseño"
+            ],
+            "secondaryImages": [],
+            "sku": "BOB123",
+            "specs": {
+                "specs_warranty_84c5846d-a020-41f5-a937-b0d7336b67c5": "1 año",
+                "specs_hardDrive_c7d8c257-db8e-4369-94fb-1f2eabb45e5c": "64 GB SSD",
+                "specs_processor_aec86c10-8ec1-441b-a588-f3fe99fe72a4": "Core i3",
+                "specs_displayInches_63c5b0c7-9b39-4e00-9c64-c62701919f98": "12",
+                "specs_inBoxAccessories_f5e5d8f0-8f6d-4eef-9619-54fc2363bbd0": "12",
+                "specs_software_f95734e4-66ad-4e82-8e26-e0586644ed4b": "W11"
+            },
+            "prices": {
+                "priciePrimeusd": "714.54",
+                "priceWithoutPrimeUsd": 735,
+                "localPrice": "12147.21",
+                "havePrime": true
+            },
+            "warranty": "1 año",
+            "bestSellerOrder": 6
+        },
+        {
+            "productId": 296,
+            "productName": "Batman laptop",
+            "description": "121212",
+            "descriptions": [
+                {
+                    "name": "Descripción",
+                    "value": [
+                        "121212"
+                    ]
+                },
+                {
+                    "name": "Descripción Larga",
+                    "value": [
+                        null
+                    ]
+                },
+                {
+                    "name": "Software",
+                    "value": [
+                        "W11"
+                    ]
+                }
+            ],
+            "brandId": 3,
+            "brandImage": "https://d2bb2hf1hp3ih3.cloudfront.net/images/applelogo-iIioKKgZs-regular.png",
+            "brandName": "HPasdasdasdasd",
+            "categoryId": 1,
+            "categoryName": "Laptops",
+            "dataSheet": "",
+            "dataSheetName": "",
+            "imageId": 415,
+            "imageUrl": "https://d2bb2hf1hp3ih3.cloudfront.net/images/81pj7boudlacsl1500-DpwmwO6OO-regular.png",
+            "isKit": false,
+            "itemId": 214,
+            "longDescription": null,
+            "pills": {
+                "Cargo": "Basicos",
+                "Perfil 1": "Financiero/Adm",
+                "Procesador": "Core i5",
+                "Memoria": "8 GB"
+            },
+            "position": "Basicos",
+            "positionNameStringId": "cat_ProductPosition_name_basicos_8bdd239b-a28c-466d-a2cc-7a19081f613d",
+            "profiles": [
+                "Financiero/Adm"
+            ],
+            "secondaryImages": [],
+            "sku": "12",
+            "specs": {
+                "specs_warranty_84c5846d-a020-41f5-a937-b0d7336b67c5": "12",
+                "specs_hardDrive_c7d8c257-db8e-4369-94fb-1f2eabb45e5c": "64 GB SSD",
+                "specs_processor_aec86c10-8ec1-441b-a588-f3fe99fe72a4": "Core i5",
+                "specs_displayInches_63c5b0c7-9b39-4e00-9c64-c62701919f98": "12",
+                "specs_inBoxAccessories_f5e5d8f0-8f6d-4eef-9619-54fc2363bbd0": "12",
+                "specs_software_f95734e4-66ad-4e82-8e26-e0586644ed4b": "W11"
+            },
+            "prices": {
+                "priciePrimeusd": "2721.13",
+                "priceWithoutPrimeUsd": 2805,
+                "localPrice": "46259.23",
+                "havePrime": true
+            },
+            "warranty": "12",
+            "bestSellerOrder": 24
+        },
+        {
+            "productId": 306,
+            "productName": "nueva mac caricatura",
+            "description": "123123123",
+            "descriptions": [
+                {
+                    "name": "Descripción",
+                    "value": [
+                        "123123123"
+                    ]
+                },
+                {
+                    "name": "Descripción Larga",
+                    "value": [
+                        null
+                    ]
+                },
+                {
+                    "name": "Software",
+                    "value": [
+                        "MAC OS"
+                    ]
+                }
+            ],
+            "brandId": 63,
+            "brandImage": "https://d2bb2hf1hp3ih3.cloudfront.net/images/group-10677-3099--wCkdLT_--regular.png",
+            "brandName": "Prueba",
+            "categoryId": 1,
+            "categoryName": "Laptops",
+            "dataSheet": "",
+            "dataSheetName": "",
+            "imageId": 437,
+            "imageUrl": "https://d2bb2hf1hp3ih3.cloudfront.net/images/illustration-of-laptop-in-cartoon-style-cute-funny-character-2gkpyjh-9578-tMCD9_6vG-regular.png",
+            "isKit": false,
+            "itemId": 221,
+            "longDescription": null,
+            "pills": {
+                "Cargo": "Basicos",
+                "Perfil 1": "Financiero/Adm",
+                "Procesador": "Core i3",
+                "Memoria": "4 GB"
+            },
+            "position": "Basicos",
+            "positionNameStringId": "cat_ProductPosition_name_basicos_8bdd239b-a28c-466d-a2cc-7a19081f613d",
+            "profiles": [
+                "Financiero/Adm"
+            ],
+            "secondaryImages": [],
+            "sku": "Abc123-123",
+            "specs": {
+                "specs_warranty_84c5846d-a020-41f5-a937-b0d7336b67c5": "123",
+                "specs_hardDrive_c7d8c257-db8e-4369-94fb-1f2eabb45e5c": "64 GB SSD",
+                "specs_processor_aec86c10-8ec1-441b-a588-f3fe99fe72a4": "Core i3",
+                "specs_displayInches_63c5b0c7-9b39-4e00-9c64-c62701919f98": "123",
+                "specs_inBoxAccessories_f5e5d8f0-8f6d-4eef-9619-54fc2363bbd0": "123123",
+                "specs_software_f95734e4-66ad-4e82-8e26-e0586644ed4b": "MAC OS"
+            },
+            "prices": {
+                "priciePrimeusd": "606.87",
+                "priceWithoutPrimeUsd": 625,
+                "localPrice": "10316.80",
+                "havePrime": true
+            },
+            "warranty": "123",
+            "bestSellerOrder": 35
+        },
+        {
+            "productId": 309,
+            "productName": "asdasd",
+            "description": "121212121asdasdasdads",
+            "descriptions": [
+                {
+                    "name": "Descripción",
+                    "value": [
+                        "121212121asdasdasdads"
+                    ]
+                },
+                {
+                    "name": "Descripción Larga",
+                    "value": [
+                        null
+                    ]
+                },
+                {
+                    "name": "Software",
+                    "value": [
+                        "MAC OS"
+                    ]
+                }
+            ],
+            "brandId": 1,
+            "brandImage": "https://d2bb2hf1hp3ih3.cloudfront.net/images/applelogo-wfFkM93V6-regular.png",
+            "brandName": "Generic Brand",
+            "categoryId": 1,
+            "categoryName": "Laptops",
+            "dataSheet": "",
+            "dataSheetName": "",
+            "imageId": 440,
+            "imageUrl": "https://d2bb2hf1hp3ih3.cloudfront.net/images/tv-jbb6yn5sa-regular.png",
+            "isKit": false,
+            "itemId": 223,
+            "longDescription": null,
+            "pills": {
+                "Cargo": "Medios",
+                "Perfil 1": "Financiero/Adm",
+                "Perfil 2": "Tecnología",
+                "Procesador": "Core i7",
+                "Memoria": "8 GB"
+            },
+            "position": "Medios",
+            "positionNameStringId": "cat_ProductPosition_name_medios_acea1ad8-1e10-4203-a037-fd58b33102c0",
+            "profiles": [
+                "Financiero/Adm",
+                "Tecnología"
+            ],
+            "secondaryImages": [
+                "https://d2bb2hf1hp3ih3.cloudfront.net/images/5c6d5ffd63ffc761e8a965366b986f68-437c-20zU3DzD1-regular.png"
+            ],
+            "sku": "asdasd1213",
+            "specs": {
+                "specs_warranty_84c5846d-a020-41f5-a937-b0d7336b67c5": "12",
+                "specs_hardDrive_c7d8c257-db8e-4369-94fb-1f2eabb45e5c": "256 GB SSD",
+                "specs_processor_aec86c10-8ec1-441b-a588-f3fe99fe72a4": "Core i7",
+                "specs_displayInches_63c5b0c7-9b39-4e00-9c64-c62701919f98": "12",
+                "specs_inBoxAccessories_f5e5d8f0-8f6d-4eef-9619-54fc2363bbd0": "12",
+                "specs_software_f95734e4-66ad-4e82-8e26-e0586644ed4b": "MAC OS"
+            },
+            "prices": {
+                "priciePrimeusd": "6739.20",
+                "priceWithoutPrimeUsd": 6945,
+                "localPrice": "114566.47",
+                "havePrime": true
+            },
+            "warranty": "12",
+            "bestSellerOrder": 53
+        },
+        {
+            "productId": 321,
+            "productName": "Surface Go",
+            "description": "La nueva surface goooo",
+            "descriptions": [
+                {
+                    "name": "Descripción",
+                    "value": [
+                        "La nueva surface goooo"
+                    ]
+                },
+                {
+                    "name": "Descripción Larga",
+                    "value": [
+                        null
+                    ]
+                },
+                {
+                    "name": "Software",
+                    "value": [
+                        "W11"
+                    ]
+                }
+            ],
+            "brandId": 67,
+            "brandImage": "https://d2bb2hf1hp3ih3.cloudfront.net/images/microsoftlogo-96be-XWx2v6N2Q-regular.png",
+            "brandName": "Microsoft",
+            "categoryId": 1,
+            "categoryName": "Laptops",
+            "dataSheet": "",
+            "dataSheetName": "",
+            "imageId": 485,
+            "imageUrl": "https://d2bb2hf1hp3ih3.cloudfront.net/images/surfacego-b786-9FzivPYdx-regular.png",
+            "isKit": false,
+            "itemId": 232,
+            "longDescription": null,
+            "pills": {
+                "Cargo": "Medios",
+                "Perfil 1": "Tecnología",
+                "Perfil 2": "Comercial",
+                "Pantalla": "13'",
+                "Procesador": "Intel Pentium",
+                "Memoria": "8 GB"
+            },
+            "position": "Medios",
+            "positionNameStringId": "cat_ProductPosition_name_medios_acea1ad8-1e10-4203-a037-fd58b33102c0",
+            "profiles": [
+                "Tecnología",
+                "Comercial"
+            ],
+            "secondaryImages": [],
+            "sku": "SF-GO-M",
+            "specs": {
+                "specs_warranty_84c5846d-a020-41f5-a937-b0d7336b67c5": null,
+                "specs_hardDrive_c7d8c257-db8e-4369-94fb-1f2eabb45e5c": "256 GB SSD",
+                "specs_processor_aec86c10-8ec1-441b-a588-f3fe99fe72a4": "Intel Pentium",
+                "specs_displayInches_63c5b0c7-9b39-4e00-9c64-c62701919f98": "13'",
+                "specs_inBoxAccessories_f5e5d8f0-8f6d-4eef-9619-54fc2363bbd0": "Cargador",
+                "specs_software_f95734e4-66ad-4e82-8e26-e0586644ed4b": "W11"
+            },
+            "prices": {
+                "priciePrimeusd": "694.97",
+                "priceWithoutPrimeUsd": 715,
+                "localPrice": "11814.41",
+                "havePrime": true
+            },
+            "warranty": null,
+            "bestSellerOrder": 55
+        }
+    ],
+    "pillFilters": {
+        "Software": [
+            "W11"
+        ],
+        "Almacenamiento": [
+            "1 TB SSD"
+        ],
+        "Memoria": [
+            "16 GB",
+            "8 GB",
+            "4 GB"
+        ],
+        "Procesador": [
+            "Core i3",
+            "Core i5",
+            "Core i7",
+            "Intel Pentium"
+        ],
+        "Pantalla": [
+            "13'"
+        ]
+    }
+}
